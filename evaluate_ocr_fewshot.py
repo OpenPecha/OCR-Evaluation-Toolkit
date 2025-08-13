@@ -32,7 +32,7 @@ MODELS_TO_TEST = [
 
 # Resolve benchmark directory relative to this script's folder
 PROJECT_ROOT = Path(__file__).resolve().parent
-BENCHMARK_DIR = PROJECT_ROOT / "bench mark"
+BENCHMARK_DIR = PROJECT_ROOT / "benchmark"
 
 # Output CSVs for this pipeline
 SUMMARY_REPORT_CSV = "evaluation_summary_report_fewshot.csv"
