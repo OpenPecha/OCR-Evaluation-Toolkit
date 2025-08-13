@@ -1,0 +1,88 @@
+{
+  "creation_date": "2024",
+  "target_total": 50,
+  "actual_total": 47,
+  "copy_statistics": {
+    "total_images": 47,
+    "total_texts": 47,
+    "groups": {
+      "1366316": {
+        "images": 3,
+        "texts": 3
+      },
+      "1464089": {
+        "images": 1,
+        "texts": 1
+      },
+      "1464665": {
+        "images": 3,
+        "texts": 3
+      },
+      "1498845": {
+        "images": 3,
+        "texts": 3
+      },
+      "1499190": {
+        "images": 2,
+        "texts": 2
+      },
+      "1706631": {
+        "images": 3,
+        "texts": 3
+      },
+      "1706633": {
+        "images": 3,
+        "texts": 3
+      },
+      "1706844": {
+        "images": 3,
+        "texts": 3
+      },
+      "1706858": {
+        "images": 3,
+        "texts": 3
+      },
+      "1706874": {
+        "images": 3,
+        "texts": 3
+      },
+      "1706876": {
+        "images": 3,
+        "texts": 3
+      },
+      "1706880": {
+        "images": 3,
+        "texts": 3
+      },
+      "1706891": {
+        "images": 2,
+        "texts": 2
+      },
+      "1706895": {
+        "images": 2,
+        "texts": 2
+      },
+      "1706897": {
+        "images": 2,
+        "texts": 2
+      },
+      "1706898": {
+        "images": 2,
+        "texts": 2
+      },
+      "1706902": {
+        "images": 2,
+        "texts": 2
+      },
+      "1706903": {
+        "images": 2,
+        "texts": 2
+      },
+      "1706906": {
+        "images": 2,
+        "texts": 2
+      }
+    }
+  },
+  "selection_method": "random_balanced_by_first_number"
+}

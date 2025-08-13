@@ -1,0 +1,9 @@
+google-genai
+python-dotenv
+jiwer
+numpy
+tqdm
+httpx
+fastapi
+
+ 
